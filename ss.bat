@@ -1,6 +1,6 @@
 @echo OFF
 REM Change the following address to your BEAM addr.
-SET ADDRESS=3a13205ec464807c9400f0fde8d56ac49da03bb3812055f08844fe2eaf0b9166
+SET ADDRESS=e672b0582c85bd54e6f62e3be5a983fd297a80328ae550889c68a7cc836ca6a26a
 SET USERNAME=%ADDRESS%.w
 SET POOL=beam.sparkpool.com:2222
 SET SCHEME=beamhash3+ssl
